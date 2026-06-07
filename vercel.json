@@ -1,0 +1,8 @@
+{
+  "crons": [
+    {
+      "path": "/api/translate-missing-posts",
+      "schedule": "0 20 * * *"
+    }
+  ]
+}
